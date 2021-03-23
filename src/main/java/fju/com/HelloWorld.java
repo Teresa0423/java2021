@@ -1,5 +1,7 @@
 package fju.com;
 
+import fju.com.stu.Student;
+
 public class HelloWorld {
     public static void main(String[] args) {
         Student[] stu = {
