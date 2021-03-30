@@ -6,7 +6,7 @@ public class Box {
     int height;
 
     public boolean validate(int l,int w, int h){
-        return (l <= lenght, w <= width, h <= height);
+        return (l <= lenght && w <= width && h <= height);
     }
     public abstract  String getName();
 
