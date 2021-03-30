@@ -1,6 +1,6 @@
 package fju.com.box;
 
-public class Box {
+public abstract class Box {
     int lenght;
     int width;
     int height;
