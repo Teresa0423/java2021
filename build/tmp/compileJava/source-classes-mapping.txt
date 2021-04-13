@@ -1,0 +1,28 @@
+fju/com/box/Box.java
+ fju.com.box.Box
+fju/com/stu/CollageStudent.java
+ fju.com.stu.CollageStudent
+fju/com/cust/SileCustomer.java
+ fju.com.cust.SileCustomer
+fju/com/rpg/Soldier.java
+ fju.com.rpg.Soldier
+fju/com/stu/GraduateStudent.java
+ fju.com.stu.GraduateStudent
+fju/com/cust/Tester.java
+ fju.com.cust.Tester
+fju/com/stu/Student.java
+ fju.com.stu.Student
+fju/com/stu/Mailer.java
+ fju.com.stu.Mailer
+fju/com/box/Tester.java
+ fju.com.box.Tester
+fju/com/rpg/Villager.java
+ fju.com.rpg.Villager
+fju/com/stu/Tester.java
+ fju.com.stu.Tester
+fju/com/box/Box3.java
+ fju.com.box.Box3
+fju/com/box/Box5.java
+ fju.com.box.Box5
+fju/com/cust/Customer.java
+ fju.com.cust.Customer
