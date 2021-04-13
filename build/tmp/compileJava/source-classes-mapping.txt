@@ -26,3 +26,7 @@ fju/com/box/Box5.java
  fju.com.box.Box5
 fju/com/box/Tester.java
  fju.com.box.Tester
+fju/com/racing/Horse.java
+ fju.com.racing.Horse
+fju/com/racing/Racing.java
+ fju.com.racing.Racing
