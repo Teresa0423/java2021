@@ -1,4 +1,4 @@
-package fju.com.cust;
+package fju.com.cus;
 
 public class SileCustomer extends Customer{
     float discount = 0.1f;

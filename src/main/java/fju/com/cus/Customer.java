@@ -1,4 +1,4 @@
-package fju.com.cust;
+package fju.com.cus;
 
 public class Customer {
     String id;
