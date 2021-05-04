@@ -15,7 +15,7 @@ public class Tester {
 
         List.add(123);
 
-        List.add(123);
+        List.add(true);
         Box1 box = new Box1();
         List.add(box);
     }
