@@ -11,7 +11,7 @@ public class Tester {
         number[0] = 3;
         ArrayList List = new ArrayList();
         List.add("Teresa");
-        Integer m = new Integer(123);
+        Integer n = new Integer(123);
 
         List.add(123);
 
