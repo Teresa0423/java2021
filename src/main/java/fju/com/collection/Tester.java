@@ -18,5 +18,7 @@ public class Tester {
         List.add(true);
         Box1 box = new Box1();
         List.add(box);
+
+        String name = (String)List.get(0);
     }
 }
