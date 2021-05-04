@@ -9,7 +9,7 @@ public class Tester {
     public static void main(String[] args){
         int[] number = new int[3];
         number[0] = 3;
-        ArrayList List = new ArrayList();
+        ArrayList List= new ArrayList();
         List.add("Teresa");
         Integer n = new Integer(123);
 
