@@ -2,20 +2,32 @@ fju/com/box/Box.java
  fju.com.box.Box
 fju/com/stu/CollageStudent.java
  fju.com.stu.CollageStudent
-fju/com/cust/SileCustomer.java
- fju.com.cust.SileCustomer
+fju/com/cus/Tester.java
+ fju.com.cus.Tester
+fju/com/collection/Tester.java
+ fju.com.collection.Tester
+fju/com/test/Tester.java
+ fju.com.test.Tester
 fju/com/rpg/Soldier.java
  fju.com.rpg.Soldier
 fju/com/stu/GraduateStudent.java
  fju.com.stu.GraduateStudent
-fju/com/cust/Tester.java
- fju.com.cust.Tester
+fju/com/test/Box1.java
+ fju.com.test.Box1
+fju/com/cus/SileCustomer.java
+ fju.com.cus.SileCustomer
 fju/com/stu/Student.java
  fju.com.stu.Student
+fju/com/test/Box.java
+ fju.com.test.Box
+fju/com/cus/Customer.java
+ fju.com.cus.Customer
 fju/com/racing/Horse.java
  fju.com.racing.Horse
 fju/com/stu/Mailer.java
  fju.com.stu.Mailer
+fju/com/test/Box2.java
+ fju.com.test.Box2
 fju/com/box/Tester.java
  fju.com.box.Tester
 fju/com/racing/HorseRunnable.java
@@ -30,5 +42,3 @@ fju/com/box/Box5.java
  fju.com.box.Box5
 fju/com/racing/Racing.java
  fju.com.racing.Racing
-fju/com/cust/Customer.java
- fju.com.cust.Customer
