@@ -42,3 +42,11 @@ fju/com/box/Box5.java
  fju.com.box.Box5
 fju/com/racing/Racing.java
  fju.com.racing.Racing
+fju/com/newbox/Box1.java
+ fju.com.newbox.Box1
+fju/com/newbox/Box.java
+ fju.com.newbox.Box
+fju/com/car/Car.java
+ fju.com.car.Car
+fju/com/car/Tester.java
+ fju.com.car.Tester
