@@ -4,17 +4,21 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Tester {
     public static void main(String[] args){
+        int fee = 30;
+        Map<String , Car > carMap = new HashMap<>();
 
-        SimpleDateFormat sdf = new SimpleDateFormat("Teresa");
-        try{
-            Date d = sdf.parse("09:10");
-            System.out.println(d);
-        }catch (ParseException e){
-            e.printStackTrace();
-        }
+       // SimpleDateFormat sdf = new SimpleDateFormat("Teresa");
+       // try{
+       //     Date d = sdf.parse("09:10");
+       //     System.out.println(d);
+       // }catch (ParseException e){
+        //    e.printStackTrace();
+       // }
 
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.HOUR_OF_DAY, 8);
