@@ -1,0 +1,60 @@
+fju/com/box/Box.java
+ fju.com.box.Box
+fju/com/car/MapTester.java
+ fju.com.car.MapTester
+fju/com/cus/Tester.java
+ fju.com.cus.Tester
+fju/com/car/CarDemo.java
+ fju.com.car.CarDemo
+fju/com/car/CarWin.java
+ fju.com.car.CarWin
+fju/com/collection/Tester.java
+ fju.com.collection.Tester
+fju/com/newbox/Box.java
+ fju.com.newbox.Box
+fju/com/test/Tester.java
+ fju.com.test.Tester
+fju/com/rpg/Soldier.java
+ fju.com.rpg.Soldier
+fju/com/stu/Student.java
+ fju.com.stu.Student
+fju/com/cus/Customer.java
+ fju.com.cus.Customer
+fju/com/stu/Mailer.java
+ fju.com.stu.Mailer
+fju/com/net/Tester.java
+ fju.com.net.Tester
+fju/com/test/Box2.java
+ fju.com.test.Box2
+fju/com/car/Tester.java
+ fju.com.car.Tester
+fju/com/box/Box5.java
+ fju.com.box.Box5
+fju/com/car/Car.java
+ fju.com.car.Car
+fju/com/racing/Racing.java
+ fju.com.racing.Racing
+fju/com/stu/CollageStudent.java
+ fju.com.stu.CollageStudent
+fju/com/stu/GraduateStudent.java
+ fju.com.stu.GraduateStudent
+fju/com/newbox/Box1.java
+ fju.com.newbox.Box1
+fju/com/test/Box1.java
+ fju.com.test.Box1
+fju/com/cus/SileCustomer.java
+ fju.com.cus.SileCustomer
+fju/com/test/Box.java
+ fju.com.test.Box
+fju/com/racing/Horse.java
+ fju.com.racing.Horse
+fju/com/box/Tester.java
+ fju.com.box.Tester
+fju/com/racing/HorseRunnable.java
+ fju.com.racing.HorseRunnable
+fju/com/rpg/Villager.java
+ fju.com.rpg.Villager
+fju/com/stu/Tester.java
+ fju.com.stu.Tester
+fju/com/box/Box3.java
+ fju.com.box.Box3
