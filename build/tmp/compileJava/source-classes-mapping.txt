@@ -4,6 +4,8 @@ fju/com/car/MapTester.java
  fju.com.car.MapTester
 fju/com/cus/Tester.java
  fju.com.cus.Tester
+fju/com/finalexam/Student3.java
+ fju.com.finalexam.Student3
 fju/com/car/CarDemo.java
  fju.com.car.CarDemo
 fju/com/car/CarWin.java
@@ -16,10 +18,14 @@ fju/com/test/Tester.java
  fju.com.test.Tester
 fju/com/rpg/Soldier.java
  fju.com.rpg.Soldier
+fju/com/finalexam/Student.java
+ fju.com.finalexam.Student
 fju/com/stu/Student.java
  fju.com.stu.Student
 fju/com/cus/Customer.java
  fju.com.cus.Customer
+fju/com/finalexam/Student2.java
+ fju.com.finalexam.Student2
 fju/com/stu/Mailer.java
  fju.com.stu.Mailer
 fju/com/net/Tester.java
@@ -36,6 +42,8 @@ fju/com/racing/Racing.java
  fju.com.racing.Racing
 fju/com/stu/CollageStudent.java
  fju.com.stu.CollageStudent
+fju/com/finalexam/Tester.java
+ fju.com.finalexam.Tester
 fju/com/stu/GraduateStudent.java
  fju.com.stu.GraduateStudent
 fju/com/newbox/Box1.java
@@ -56,5 +64,7 @@ fju/com/rpg/Villager.java
  fju.com.rpg.Villager
 fju/com/stu/Tester.java
  fju.com.stu.Tester
+fju/com/finalexam/Student1.java
+ fju.com.finalexam.Student1
 fju/com/box/Box3.java
  fju.com.box.Box3

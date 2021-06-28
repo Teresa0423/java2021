@@ -41,6 +41,6 @@ public class Student {
         } else if (avg >= 60 && avg <= 69) {
             grading = "D";
         }
-            return name + "\t" + english + "\t" + math + "\t" + average() + "\t" + grading;
+            return name + "\t" + chinese +"\t"+ english + "\t" + math + "\t" + average() + "\t" + grading;
         }
 }
