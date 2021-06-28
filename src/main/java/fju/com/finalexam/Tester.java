@@ -6,7 +6,7 @@ public class Tester {
         stu1.print();
         Student2 stu2 = new Student2("John","0002",55,42,80);
         stu2.print();
-        Student3 stu3 = new Student3("Eric","0003",80,80,65);
+        Student3 stu3 = new Student3("Teresa","0003",80,80,65);
         stu3.print();
     }
 }
