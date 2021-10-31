@@ -23,11 +23,6 @@ public class Student {
         super();
     }
 
-    public void print() {
-        System.out.println("name:" + name + "\t" + "id:" + id + "\t" + "chinese:" + chinese + "\t" + "english:" + english + "\t" + "math:" + math + "\t"
-                + "average:" + average());
-    }
-
     public String toString() {
         int avg = average();
         String grades = "AABCDFFFFF";
@@ -41,6 +36,11 @@ public class Student {
         } else if (avg >= 60 && avg <= 69) {
             grading = "D";
         }
-            return name + "\t" + chinese +"\t"+ english + "\t" + math + "\t" + average() + "\t" + grading;
-        }
+        return name + "\t" + chinese +"\t"+ english + "\t" + math + "\t" + average() + "\t" + grading;
+    }
+
+    public void print() {
+        System.out.println("name:" + name + "\t" + "id:" + id + "\t" + "chinese:" + chinese + "\t" + "english:" + english + "\t" + "math:" + math + "\t"
+                + "average:" + average());
+    }
 }
